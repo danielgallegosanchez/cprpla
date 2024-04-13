@@ -1,0 +1,4 @@
+(calcula | dime | dame) el factorial de {num}
+cuál es el factorial de {num}?
+me das el factorial de {num}?
+factorial de {num}

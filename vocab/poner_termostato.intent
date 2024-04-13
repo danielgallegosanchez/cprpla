@@ -1,0 +1,6 @@
+sube la temperatura
+baja la temperatura
+sube {temp} grados
+baja {temp} grados
+incrementa {temp} grados
+decrementa {temp} grados
